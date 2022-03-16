@@ -9,7 +9,7 @@
 
 I am a robotics and AI engineer/ Enthusiastic with a background in Electronics design and development. I've had the experience of working with a rover and mobile robots. Whether for work or for leisure, I enjoy exploring ideas that enhance people's lives and broaden the realm of possibilities.
 
-In 2018, I graduated with a BSc from St.Joseph's College, Bharathidasan University, Tiruchirapalli - TamilNadu. Then full passion to expolre the Robotic/ AI I did y Master of Science in Department of Electronics, Cochin University of Science and Technology (2018 -2020). Currently i am doing my Master of Technology in Department of Electronics, Cochin University of Science and Technology(2021-present). With an year of experience, I had a oppurtunity to work with mobile robots and have used Ardupilot project to write firmwares for robots. 
+In 2018, I graduated with a BSc from St.Joseph's College, Bharathidasan University, Tiruchirapalli - TamilNadu. Then with full passion to expolre the field Robotics/ AI I did my Master of Science in Department of Electronics, Cochin University of Science and Technology (2018 -2020). Currently i am doing my Master of Technology in Department of Electronics, Cochin University of Science and Technology(2021-present). With an year of experience, I have had a oppurtunity to work with mobile robots and design of UAV and ASV utilizing the Ardupilot projects.  
 
 ## Skills: 
 
